@@ -1,0 +1,7 @@
+gunicorn
+flask
+pymongo
+beautifulsoup4
+requests
+scipy
+html5lib
